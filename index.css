@@ -1,0 +1,184 @@
+h1{
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+}
+
+#topheading{
+    background-color: lightgreen;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    display: block;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3em;
+    display: block;
+}
+
+main{
+    width: 95%;
+    max-width: 800px;
+    background-color: #5AB9EA;
+    border: 2px solid black;
+    margin: auto;
+}
+
+body{
+    /*background-color: #84CEEB;*/
+    background-image: url(images/pineapplepattern.jpeg);
+}
+
+.container{
+  background-color:#EDC461;
+  border: 2px solid black;
+  margin: 2%;
+  padding: 3%;
+}
+
+.color-container{
+    display: block;
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 20px 1%;
+    min-height: 100px;
+    border: 1px black solid;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.green{
+    background-color: #77dd77;
+    color: black;
+}
+
+.orange{
+   background-color: #CC5500;
+   color: black;
+}
+
+.pink{
+    background-color: #E0218A;
+    color: white;
+}
+
+.font-container{
+    display: block;
+    width: 100%;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+    padding: 2px;
+    min-height: 100px;
+    background-color: lightgreen;
+    margin: 20px 1%;
+    border: 2px black dashed;
+}
+
+.courier_new{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 10px 10px;
+}
+
+.courier_new p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 10px 10px;
+}
+
+.arial p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.georgia{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 10px 10px;
+}
+
+.georgia p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.work_sans{
+    font-family: 'Work Sans';
+    font-size: 20px;
+    margin: 10px 10px;
+}
+
+.work_sans p{
+    font-family: 'Work Sans';
+    font-size: 16px;
+    padding: 5px;
+}
+
+.style-container{
+    display: block;
+    width: 100%;
+}
+
+.style-panel {
+    display: inline-block;
+    background-color: lightgreen;
+    width: 80%;
+    text-align: justify;
+    padding: 2px;
+    min-height: 100px;
+    margin: 20px 1%;
+    border: 2px black dashed;
+}
+
+#h1heading {
+    font-family: 'Work Sans';
+}
+
+#h2subheading {
+    font-family: 'Roboto';
+}
+
+#styleh2{
+    text-align: center;
+}
+
+#paragraphx{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#paragraph {
+    font-family: 'Courier New', Courier, monospace
+}
+
+.italics{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
